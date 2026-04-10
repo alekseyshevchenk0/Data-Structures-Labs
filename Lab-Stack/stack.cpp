@@ -82,7 +82,6 @@ int main() {
     int choice, value;
 
     do {
-        cout << "\n--- STACK MENU ---" << endl;
         cout << "1. Push" << endl;
         cout << "2. Pop" << endl;
         cout << "3. Delete maximum" << endl;

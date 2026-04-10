@@ -117,12 +117,12 @@ int main() {
     int choice, val;
 
     while (true) {
-        cout << "\n1. Create List";
-        cout << "\n2. Add to Front";
-        cout << "\n3. Add to Back";
-        cout << "\n4. Print Forward";
-        cout << "\n5. Print Backward";
-        cout << "\n6. Delete Maximum";
+        cout << "\n1. Create list";
+        cout << "\n2. Add to front";
+        cout << "\n3. Add to back";
+        cout << "\n4. Print forward";
+        cout << "\n5. Print backward";
+        cout << "\n6. Delete maximum";
         cout << "\n7. Set Average to Head";
         cout << "\n0. Exit";
         cout << "\n>> ";
